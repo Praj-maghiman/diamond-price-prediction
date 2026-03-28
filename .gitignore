@@ -1,0 +1,21 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Virtual environments
+.env/
+.venv/
+venv/
+
+# IDE configurations
+.idea/
+.vscode/
+
+# Environment variables
+.env
+
+# Sensitive development files
+*.iml
+*.sublime-workspace
+*.sublime-project
+.DS_Store
